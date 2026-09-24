@@ -62,3 +62,21 @@ He localizado los siguientes datos desactualizados en el PDF proporcionado para 
    * **Qué dice el tema:** El documento afirma en la página 8 que la versión actual de SuiteCRM en GitHub es la 7.14.5.
    * **Qué es correcto hoy:** La versión mayor actual y vigente de SuiteCRM es la rama 8.x.
    * **Fuente:** [SuiteCRM Download Page](https://suitecrm.com/download/)
+
+   ## 5. Matriz de decisión y recomendación
+
+### Justificación de puntuaciones
+Para una floristería pequeña (6 empleados) con venta omnicanal y contratos B2B, evaluamos tres opciones: **Odoo Community**, **ERPNext** y **Microsoft Dynamics 365**.
+* **Coste total (30%):** Odoo y ERPNext obtienen un 5 al ser gratuitos en licencia, mientras que Dynamics 365 saca un 1 por sus altas cuotas, inasumibles para 6 empleados.
+* **Integración Web/TPV (20%):** Odoo destaca (5) porque sus módulos de TPV e eCommerce están nativamente integrados. ERPNext es bueno (4) pero menos intuitivo en tienda, y Dynamics requiere integraciones complejas (3).
+* **Inventario (15%) y CRM (10%):** Dynamics 365 es el más potente (5). Odoo y ERPNext cumplen bien (4) para las necesidades de los hoteles y las flores.
+* **Soporte/Comunidad (10%):** Odoo tiene la mayor comunidad hispanohablante (5), clave al no pagar soporte oficial.
+
+### Recomendación final
+Se recomienda implantar **Odoo Community**. Cubre todos los flujos de la floristería (TPV, Web, inventario y CRM) sin coste de licencias.
+
+**Análisis de riesgos:**
+* **Coste total:** Riesgo de subestimar los costes de servidor y configuración.
+* **Dependencia del proveedor:** Muy baja (código abierto).
+* **Soporte:** Riesgo de depender de foros comunitarios si hay una caída en fechas clave (San Valentín).
+* **Migración:** El paso a la versión Enterprise es natural si la empresa crece.

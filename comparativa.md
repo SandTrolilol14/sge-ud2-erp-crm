@@ -48,3 +48,17 @@
 * **Modalidad:** Exclusivamente Nube
 * **Módulos principales:** Sales Cloud, Service Cloud, Marketing Cloud.
 * **Fuente:** [Salesforce](https://www.salesforce.com/es/) (Consultado: 24 de septiembre de 2026)
+
+## 4. Fe de erratas del tema 2
+
+He localizado los siguientes datos desactualizados en el PDF proporcionado para el Tema 2:
+
+1. **Versión de Odoo:**
+   * **Qué dice el tema:** El documento afirma en la página 7 que la versión actual de Odoo es la 14.
+   * **Qué es correcto hoy:** Actualmente, la versión vigente de Odoo es la 19.
+   * **Fuente:** [Odoo Release Notes](https://www.odoo.com/es_ES/page/release-notes)
+
+2. **Versión de SuiteCRM:**
+   * **Qué dice el tema:** El documento afirma en la página 8 que la versión actual de SuiteCRM en GitHub es la 7.14.5.
+   * **Qué es correcto hoy:** La versión mayor actual y vigente de SuiteCRM es la rama 8.x.
+   * **Fuente:** [SuiteCRM Download Page](https://suitecrm.com/download/)

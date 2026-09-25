@@ -1,7 +1,7 @@
-criterio;peso;Odoo_Community;ERPNext;Microsoft_Dynamics_365
-Coste total de propiedad (Licencias y mantenimiento);30;5;5;1
-Facilidad de uso para dependientes de tienda;15;4;3;2
-Integracion de ventas Web y TPV fisica;20;5;4;3
-Gestion de inventario perecedero (flor) y compras;15;4;4;5
-CRM para contratos B2B (Hoteles);10;4;3;5
-Soporte y comunidad disponible;10;5;4;4
+Criterio,Peso,Odoo_Community,ERPNext,Microsoft_Dynamics_365
+Coste total de propiedad (Licencias y mantenimiento),30,5,5,1
+Facilidad de uso para dependientes de tienda,15,4,3,2
+Integracion de ventas Web y TPV fisica,20,5,4,3
+Gestion de inventario perecedero (flor) y compras,15,4,4,5
+CRM para contratos B2B (Hoteles),10,4,3,5
+Soporte y comunidad disponible,10,5,4,4
